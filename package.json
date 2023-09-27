@@ -1,0 +1,6 @@
+{
+
+  "dependencies": {
+    "@coinbarn/ergo-ts": "^0.3.0"
+  }
+}
